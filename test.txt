@@ -1,9 +1,20 @@
-this is test file
-clear text
-master change 1
-dev chagne 1
-dev change 2
-merge test 1
+/**
+ TEST File
+ make complict !!!
+ **/
 
-dev merge test 1
-input
+ public class Test {
+
+ 	public Test() {
+
+ 	}
+
+ 	public void testCommit() {
+ 		System.out.printf("Commit Test ");
+ 	}
+
+ 	public void testStage() {
+ 		System.out.printf("Stage File Test");
+ 	}
+
+ }
