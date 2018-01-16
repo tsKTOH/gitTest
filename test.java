@@ -21,4 +21,10 @@
  		return false;
  	}
 
+ 	public boolean testConflictMaster() {
+ 		System.out.printf("Conflict Test Master");
+
+ 		return true;
+ 	}
+
  }
