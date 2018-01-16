@@ -16,4 +16,9 @@
  		System.out.printf("Stage File Test");
  	}
 
+ 	public boolean testStashe() {
+ 		System.out.printf("Stashe Test");
+ 		return false;
+ 	}
+
  }
