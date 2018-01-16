@@ -21,4 +21,10 @@
  		return false;
  	}
 
+	public boolean testConfilictDev() {
+		System.out.printf("Confilict Test DEV");
+
+		return true;
+	} 	
+
  }
