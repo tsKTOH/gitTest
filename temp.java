@@ -17,4 +17,8 @@ public class Temp {
 	public void func3() {
 		system.out.printf("[TEMP] func3");
 	}
+
+	public void func4() {
+		
+	}
 }
