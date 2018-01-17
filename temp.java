@@ -18,6 +18,10 @@ public class Temp {
 		system.out.printf("[TEMP] func3");
 	}
 
+	public void func4() {
+		
+	}
+
 	public void func5() {
 		system.out.printf("[TEMP] func3");
 	}

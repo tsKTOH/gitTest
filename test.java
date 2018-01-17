@@ -21,10 +21,16 @@
  		return false;
  	}
 
+ 	public boolean testConflictMaster() {
+ 		System.out.printf("Conflict Test Master");
+
+ 		return true;
+ 	}
+
 	public boolean testConfilictDev() {
 		System.out.printf("Confilict Test DEV");
 
 		return true;
-	} 	
+	}
 
  }
